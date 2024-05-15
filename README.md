@@ -1,0 +1,9 @@
+1使用步骤：
+1.1使用Cutting.ipynb对txt进行切词
+1.2使用Embedding.ipynb对原文本txt进行向量化表示，注意不要使用切词后的txt
+1.3使用TrueMain.ipynb进行最终的主题挖掘
+2所需要文件如何获取：
+2.1MiniLM-L12-v12可以通过huggface官网下载
+3免责申明
+3.1请不要应用于商业用途
+3.2想要使用源数据可以联系我
